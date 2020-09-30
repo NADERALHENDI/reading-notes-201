@@ -49,7 +49,7 @@ The <article> element acts as a container for any section of a page that could s
 ###### 5. Figures:
 - it should only be used when the content simply references the element (and not for something that is absolutely integral to the flow of a page).
 Examples of usage include: images, videos, graphs, diagrams
-- The <figure> element should also contain a <figcaption> element which provides a text decription for the content of the <figure> element.
+- The figure element should also contain a <figcaption> element which provides a text decription for the content of the figure element.
 ###### 5. <div>.
 ## Process & Design.
 - befor you creat a website, you should answer some questions:
